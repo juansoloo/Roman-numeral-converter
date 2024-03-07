@@ -1,0 +1,28 @@
+body {  
+    background-color: darkblue
+}
+
+h1 {  
+    text-align: center;   
+    padding-top: 50px;  
+    padding-bottom: 120px;  
+    color: white
+}
+
+.numeral-converter {   
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+    gap: 20px; 
+}
+
+.converter-block {  
+    color: white;
+    width: 80%;
+    padding: 25px; 
+    background-color:grey;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    border-radius: 15px;
+    text-align: center;
+  
+}
